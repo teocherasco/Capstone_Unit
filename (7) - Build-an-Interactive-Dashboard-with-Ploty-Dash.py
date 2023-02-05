@@ -96,7 +96,7 @@ if __name__ == '__main__':
     app.run_server()
 
 #Question 1: The site with the most succesfull launches is KSC LC-39A
-#Question 2: The site with the highest success rate is CCAFS SLC-40
+#Question 2: The site with the highest success rate is KSC LC-39A
 #Question 3: The payload range with the most success rate is 3100kg-3700kg (7)
 #Question 4: The payload range with the most success rate is 5500kg-9500kg (0)
 #Question 5: The F9 Booster Version with the highest succes rate is the FT (14)
